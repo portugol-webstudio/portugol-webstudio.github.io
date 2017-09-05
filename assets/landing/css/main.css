@@ -3,7 +3,7 @@
 @import url("grid.css");
 @import url("modal.css");
 i.portugol-icon {
-	 background-image: url("https://raw.githubusercontent.com/UNIVALI-LITE/Portugol-Studio/master/src/br/univali/ps/ui/icones/Dark/grande/light-bulb.png");
+	 background-image: url("https://raw.githubusercontent.com/UNIVALI-LITE/Portugol-Studio/master/ide/src/main/resources/br/univali/ps/ui/icones/Dark/grande/light-bulb.png");
 }
 *,
 *:before,
