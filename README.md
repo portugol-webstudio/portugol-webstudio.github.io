@@ -14,7 +14,7 @@ Landing page estática para o Portugol Webstudio. Código da IDE pode ser encont
 
 ## Licença
     Portugol Webstudio - IDE online para o Portugol (UNIVALI)
-    Copyright (C) 2017  Douglas Gadêlha, Guilherme Scaranse e contribuidores
+    Copyright (C) 2024  Douglas Gadêlha, Guilherme Scaranse e contribuidores
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
